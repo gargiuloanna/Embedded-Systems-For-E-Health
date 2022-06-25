@@ -1,5 +1,5 @@
 # ESEH22GROUP03
-Repository for the project work for the Coure of [Embedded Systems for E-Health](https://corsi.unisa.it/digital-health-and-bioinformatic-engineering/en/teaching/course-units?anno=2021&id=515158), Academic Year 2021/2022, present on Study Plan of Master's Degree in Digital Health and [Bioinformatic Engineering](https://corsi.unisa.it/digital-health-and-bioinformatic-engineering/en), disbursed by [DIEM](https://www.diem.unisa.it/en), [UniSA](https://web.unisa.it/en).
+Repository for the project work for the Coure of [Embedded Systems for E-Health](https://corsi.unisa.it/digital-health-and-bioinformatic-engineering/en/teaching/course-units?anno=2021&id=515158), Academic Year 2021/2022, present on Study Plan of Master's Degree in [Digital Health and Bioinformatic Engineering](https://corsi.unisa.it/digital-health-and-bioinformatic-engineering/en), disbursed by [DIEM](https://www.diem.unisa.it/en), [UniSA](https://web.unisa.it/en).
 
 The Source Code zip file contains all STM32CubeIDE project, configured to work with a STM32F401RET6 Nucleo Board.
 
