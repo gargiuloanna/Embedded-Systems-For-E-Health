@@ -4,12 +4,12 @@ Repository for the project work for the Coure of [Embedded Systems for E-Health]
 The Source Code zip file contains all STM32CubeIDE project, configured to work with a STM32F401RET6 Nucleo Board.
 
 The sensors utilized during the project are:
-- Sparkfun pulsoximeter MAX30101 with MAX32664 Smart Hub
-- Huaban Temperature sensor KY 028
-- Adafruit Oled Display !28x32 SSD1306
+- Sparkfun Pulsoximeter MAX30101 with MAX32664 Smart Hub
+- Huaban Temperature Sensor KY 028
+- Adafruit Oled Display 128x32 SSD1306
 - Elegoo Real Time CLock DS1307
 
-In the zip file, in the Core/Inc and Core/Src directory, you can see all files for each sensor and internal peripheral of the Board.
+In the zip file, in the Core/Inc and Core/Src directories, you can see all files for each sensor and internal peripherals of the Board.
 
 For any details about the configuration, the system logic, and resources see Project Report PDF file.
 
