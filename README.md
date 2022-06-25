@@ -15,4 +15,4 @@ For any details about the configuration, the system logic, and resources see Pro
 
 All material is licensed by [Creative Commons](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode) and [GPL 3.0](https://www.gnu.org/licenses/gpl-3.0.txt).
 
-For the SS1306 driver the code is provided by [taburyak](https://github.com/taburyak/STM32_OLED_SSD1306_HAL_DMA), but the used version is the one provided by [RobertoBenjami](https://github.com/RobertoBenjami/stm32_ssd1306_i2c_dma_hal) with 1 change in ssd1306_init() function, setting Color to White. 
+For the SSD1306 Driver the code is provided by [taburyak](https://github.com/taburyak/STM32_OLED_SSD1306_HAL_DMA), but the used version is the one provided by [RobertoBenjami](https://github.com/RobertoBenjami/stm32_ssd1306_i2c_dma_hal) with 1 change in ssd1306_init() function, setting Color to White. 
