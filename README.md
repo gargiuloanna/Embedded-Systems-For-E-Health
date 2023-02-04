@@ -1,6 +1,17 @@
 # ESEH22GROUP03
 Repository for the project work for the Coure of [Embedded Systems for E-Health](https://corsi.unisa.it/digital-health-and-bioinformatic-engineering/en/teaching/course-units?anno=2021&id=515158), Academic Year 2021/2022, present on Study Plan of Master's Degree in [Digital Health and Bioinformatic Engineering](https://corsi.unisa.it/digital-health-and-bioinformatic-engineering/en), disbursed by [DIEM](https://www.diem.unisa.it/en), [UniSA](https://web.unisa.it/en).
 
+Realization of a smart sensor to measure the temperature and the blood oxygenation of a patient. 
+GOALS:
+-Measure and aggregate information: the measures sent and shown on the display must be the aggregated value in a minute;
+-Show real-time information on a display: aggregated temperature and oxygenation have to be shown;
+-Rise alarms on the display in case:
+The temperature is higher than a configured threshold -
+Blood oxygenation is lower than a configured threshold;
+-Periodically send measures through the USB to the PC, each measure must have a timestamp;
+-The threshold must be configured according to Covid19 regulations.
+_________________________________________________________________________________________________________________________________________________________________________
+
 The Source Code zip file contains all STM32CubeIDE project, configured to work with a STM32F401RET6 Nucleo Board.
 
 The sensors utilized during the project are:
